@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You will find all information and stuff that I do beside my job on my website: [engineertrooper.com](https://engineertrooper.com)
+
+If you want to reach me or you have a question: kontakt@engineertrooper.com
+
 <!--
 **engineerTrooper/engineertrooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
